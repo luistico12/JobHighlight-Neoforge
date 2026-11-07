@@ -1,0 +1,6 @@
+{
+  "message.jobhighlight.job_site": "Arbeitsblock: %1$s (%2$s, %3$s, %4$s)",
+  "message.jobhighlight.no_site_no_block": "Kein Arbeitsblock bekannt. Halte einen Block in der Hand, um solche Blöcke in der Nähe zu markieren.",
+  "message.jobhighlight.held_found": "%1$s× %2$s in der Nähe markiert",
+  "message.jobhighlight.held_none": "Kein %1$s im Umkreis von %2$s Blöcken gefunden"
+}

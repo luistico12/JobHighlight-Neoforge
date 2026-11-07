@@ -1,0 +1,6 @@
+{
+  "message.jobhighlight.job_site": "Job site: %1$s (%2$s, %3$s, %4$s)",
+  "message.jobhighlight.no_site_no_block": "No job site known. Hold a block in your hand to highlight blocks of that kind nearby.",
+  "message.jobhighlight.held_found": "Highlighted %1$s× %2$s nearby",
+  "message.jobhighlight.held_none": "No %1$s found within %2$s blocks"
+}
